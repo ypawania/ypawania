@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-I started programming in Grade 9 as a hobby. Since then, I've attended over a dozen hackathons, built 15+ projects includind websites and robots, and programmed systems for race karts, e-bikes, and drones.
+I started programming in Grade 9 as a hobby. Since then, I've attended over a dozen hackathons, built 15+ projects includind websites and robots, and programmed systems for race karts, e-bikes, and drones.   
 
-🧠 2x intern @ Sunnybrook Research Institute: Automated transducer design and assembly workflows, designed PCBs, and coded in Assembly.
-🔭 I'm fascinated by low level programming and operating systems.
-⚡ I use Arch Linux and Vim.
-🌱 I'm currently learning compiler theory and machine learning.
+🧠 2x intern @ Sunnybrook Research Institute: Automated transducer design and assembly workflows, designed PCBs, and coded in Assembly.   
+🔭 I'm fascinated by low level programming and operating systems.   
+⚡ I use Arch Linux and Vim.   
+🌱 I'm currently learning compiler theory and machine learning.   
 <!--
 **ypawania/ypawania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
